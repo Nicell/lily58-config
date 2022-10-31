@@ -7,8 +7,8 @@ manifest:
     - name: hookyqr
       url-base: https://github.com/hookyqr
   projects:
-    - name: hookyqr
-      remote: zmk
+    - name: zmk
+      remote: hookyqr
       revision: main
       import: app/west.yml
   self:
