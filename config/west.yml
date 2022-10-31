@@ -4,8 +4,10 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: nicell
       url-base: https://github.com/nicell
+    - name: hookyqr
+      url-base: https://github.com/hookyqr
   projects:
-    - name: zmk
+    - name: hooky
       remote: zmkfirmware
       revision: main
       import: app/west.yml
