@@ -8,7 +8,7 @@ manifest:
       url-base: https://github.com/hookyqr
   projects:
     - name: hookyqr
-      remote: zmkfirmware
+      remote: hookyqr
       revision: main
       import: app/west.yml
   self:
